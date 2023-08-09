@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/StarterContent/Blueprints/WinCondition.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HN/YEBYA9W2437ST0PP3OXZ4J.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D8/KWQYG3A986R4S20O4EN8IY.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/GZ/2IYQ2XM4HS1MYGE49PUOCX.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/88/4ABNA566GKU1TDW2AE24RE.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9E/1R0BKLL6M36C8ZCW92W7OF.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/W4/FW162K7WSD7LSP3DRHNAVF.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/GG/DI4849PT3BYP168HBIXX5Y.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/MR/1N2C30C2PIAUNIFDWK5YLI.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X9/XM0P18FQUX0702ZL0ESLDL.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/C0/B9U86UABBOR5SFTAH40S9C.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/VR/QLBS0IKUY6ECCYRHXYZJT0.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WD/MVXANG30GQST5JMAQF6SRM.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/C2/4K7XPA8AIOUHH8ZXC3ZK2I.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N2/QC2WLVU6Z2PBLEDCE2WINE.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/U4/QPUDNCRKX4VT7LY4P5JGBN.uasset",
+				"C:/Users/casey/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/I9/DID9LSEEZRPV7NQJQ4A2YY.uasset"
+			]
+		}
+	]
+}
